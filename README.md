@@ -11,3 +11,17 @@ Automatização de tarefas: Execução de tarefas agendadas ou disparadas por ev
 Execução ordenada: Possibilita a execução cadenciada de tarefas numa ordem lógica que modelo o fluxo de trabalho.
 
 Integridade da solução: Complicação e execução de testes disparados pela alteração de software.
+
+##Funcionalidades:
+
+Integração com controle de versão: SVN, Git...
+
+Execução de arquivos: .bat, .exe, ,py, ...
+
+Controle de execução de jobs: Paralelização, encadeamento, distribuição...
+
+Acesso aos resultados: Html, gráficos, .zip...
+
+Ferramentas pagas: Teamcity, TeamFoundation Service, Bamboo
+
+Ferramentas open source: Travis CI, Go, Jenkins
